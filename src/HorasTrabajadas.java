@@ -15,8 +15,8 @@ public class HorasTrabajadas {
             HorasExtras=NumHorasTrabajadas-40;
         }
 
-        int Salario=0;
-        int HorasExtrasMay8=HorasExtras-8;;
+        int Salario;
+        int HorasExtrasMay8=HorasExtras-8;
 
         if(HorasExtras>8){
             Salario=40*ValorHorasTrabajoNorm+((ValorHorasTrabajoNorm*8)*2)+((ValorHorasTrabajoNorm*HorasExtrasMay8)*3);
