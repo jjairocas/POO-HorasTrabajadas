@@ -1,2 +1,2 @@
 # POO-HorasTrabajadas
-Programa sencillo para calcular las horas trabajadas de una persona EJ12
+Programa sencillo para calcular las horas trabajadas de una persona EJ12 CAP4
